@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\classes-2c429205662cc01321b55e0bf07ddc58cf95f7ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\classes-9a8c5fa33857040873b2ba9ed424cb1714594c8a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\classes-304f8c12786f11291153dadcea6f59b6fe0496ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\classes-4a5f670101cf2438f965ed11eb7e0dd05a3420bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\classes-83c793fe7b7fac71969d8e3772583b0ec033190b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\classes-07de137db424e2e78e8ff5302bf4f24e46381f51.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\classes-233e516b12e16373fb4716c6160d1a888c243490.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-ff42cef7da0f49d7fe6623898a14b67f0f324140.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\classes-c28b11f0f657ee4f81289f8f74e28f92e8fe42df.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\classes-0aab162cfe99085d23d4f499c92baa696a0073cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\classes-46133fc2793ec28142445c2a019c84f85a65f56b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-3f6e773d58c69676a3df381e742f5f634c1e289a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\classes-33196a45754b4cad901c87d5a480b6e9fd0ed2d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\classes-70000b834554c610c23f82cc88976197d67fc24e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\classes-d4f35ac1e6852fbed887d12a71a457bc7034297a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\classes-ee8c2651cc7b0f873c23ba86352a0461649798d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\classes-35990075dd304b94bc80d646e4815eff3a5e82f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\classes-02455c4cba086a77b2e9dca0c59047688548c9b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\classes-6aca069fa9519729e0e413c919afc781d4f570b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\classes-a493f546584aa890abe5ae440a62732df5c2b322.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\libs\json-simple-1.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5d6f9b6a9ddca2a28c0216cc44efb2e20d9c23b5">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\json-simple-1.1.1-25179aceb27c7700304b34d4262b0f99a3bde562.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\classes-1a4425f920967694f732639469de38b5fba64734.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\classes-1f549c2c3ed0d0d25452628f377dcdd345d2341e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\libs\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\gson-2.3.1-c3cd0353de374621cbf149550b5694af8f12d6a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\classes-3f612bd2a9453b2c6d90339574de3c090d992446.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="C:\Users\Andres\Desktop\TFG\tfg1\app\build\intermediates\pre-dexed\debug\classes-5331aa0add7359fb337b2664640d0535eb4ca91a.jar" />
+    </item>
+
+</items>
